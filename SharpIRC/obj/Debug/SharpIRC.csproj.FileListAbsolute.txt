@@ -1,0 +1,5 @@
+C:\Users\Nicholas\documents\visual studio 2010\Projects\SharpIRC\SharpIRC\bin\Debug\SharpIRC.dll
+C:\Users\Nicholas\documents\visual studio 2010\Projects\SharpIRC\SharpIRC\bin\Debug\SharpIRC.pdb
+C:\Users\Nicholas\documents\visual studio 2010\Projects\SharpIRC\SharpIRC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicholas\documents\visual studio 2010\Projects\SharpIRC\SharpIRC\obj\Debug\SharpIRC.dll
+C:\Users\Nicholas\documents\visual studio 2010\Projects\SharpIRC\SharpIRC\obj\Debug\SharpIRC.pdb
